@@ -59,3 +59,8 @@ button:hover {
   color: #ff0000;
   font-weight: 100;
 }
+#tipAmount {
+  font-size: 20px;
+  color: #ff0000;
+  font-weight: 100;
+}
